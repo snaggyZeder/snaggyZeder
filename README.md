@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snaggyZeder
+- 👋 Hi, I’m @Zeder
 - 👀 I’m not interested in smth.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on tesla
